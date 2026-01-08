@@ -1,0 +1,5 @@
+{
+  "name": "Emotion Translator",
+  "description": "A sophisticated mood analysis app that translates complex emotions into trendy labels and provides actionable coping steps using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
